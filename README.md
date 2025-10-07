@@ -20,4 +20,3 @@ Car_Rental_System is a simple application designed to manage car rentals efficie
 
 - Register as a new user or log in.
 - Browse available cars and make a reservation.
-- View and manage your bookings from your dashboard.
